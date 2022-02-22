@@ -1,0 +1,23 @@
+.grid{
+    padding-top: 25px;
+}
+.card{
+    height: 100%;
+}
+.right{
+    height:100%
+}
+
+.productName{
+    height:fit-content;
+    font-style: italic;
+    color: navy;
+    font-weight: bolder;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 20px 50px 20px;
+}
+
+.price{
+    margin: 50px 50px 50px 50px;
+    padding: 50px 20px 50px 20px;
+}
