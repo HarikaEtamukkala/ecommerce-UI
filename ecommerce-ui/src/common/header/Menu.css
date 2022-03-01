@@ -2,3 +2,16 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.search{
+    background-color: white;
+    
+}
+
+.rcorners2 {
+    background-color: white;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+   
+  
+  }
